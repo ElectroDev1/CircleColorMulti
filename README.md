@@ -24,6 +24,10 @@ What CCM allows you to do:
 * Adjust the position of the color in the radius itself, using a 0 to 1 scale
 </p>
 
+<p align="center">
+  <img width="400px" height="400px" src="https://github.com/ElectroDev1/CircleColorMulti/blob/main/showcase.gif">
+</p>
+
 <hr>
 
 # SETUP AND USAGE
