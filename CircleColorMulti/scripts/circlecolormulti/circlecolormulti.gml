@@ -1,4 +1,4 @@
-function draw_circle_color_multi(x,y,radius,steps=20,colors=[[draw_get_color(),draw_get_alpha(),1]],size=[1,1],
+function draw_circle_color_multi(x,y,radius,steps=40,colors=[c_white,c_white],size=[1,1],
 dir=0,blend=bm_normal,alpha=1){
 	
 	/*
