@@ -121,6 +121,6 @@ Always remember to get rid of the struct once it's not needed anymore.
  <hr>
  
  # ABOUT AND CREDITS
-Surfs is licensed under the <a href="https://github.com/ElectroDev1/CircleColorMulti/blob/main/LICENSE.md">MIT license</a>
+CircleColorMulti is licensed under the <a href="https://github.com/ElectroDev1/CircleColorMulti/blob/main/LICENSE.md">MIT license</a>
 <br><br>
-Surfs made by <a href="https://github.com/ElectroDev1">Electro</a>
+CircleColorMulti made by <a href="https://github.com/ElectroDev1">Electro</a>
